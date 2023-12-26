@@ -52,7 +52,7 @@ Now, you can run the WeatherApp, and it will use the API key you provided in the
 
 ## Contact
 
-- **Email:** info.kennans26@gmail.com
+- **Email:** **info.kennans26@gmail.com**
 - **LinkedIn:** [Kennans26 LinkedIn Profile](https://www.linkedin.com/in/kennans26)
 
 ## License
